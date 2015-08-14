@@ -1,2 +1,2 @@
 # TestGitHub
-just learning github
+just learning github - a repository for showing bare minimums of GitHub
